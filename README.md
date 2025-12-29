@@ -1,4 +1,4 @@
-Hi 👋, I'm Vidhya Shankar
+Hi 👋, I'm Sakshi Jindal
 Welcome to my GitHub profile! I’m a passionate QA professional with 10+ years of experience in building quality-first engineering practices, working closely with cross-functional teams, and delivering high-performing, scalable test automation frameworks.
 
 🔍 About Me
